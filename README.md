@@ -31,7 +31,6 @@ Currently a work in progress. The goal with this project is to create an item tr
 ### Prerequisites
 
 Lorem Ipsum
-  ```
 
 ### Installation
 
