@@ -10,8 +10,6 @@
   <p align="center">
     Psychonauts Randomizer item tracker
     <br />
-    <a href=""><strong>View Demo »</strong></a>
-    <br />
     <br />
   </p>
 </div>
